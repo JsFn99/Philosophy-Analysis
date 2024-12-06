@@ -22,7 +22,7 @@ This project uses Natural Language Processing (NLP) techniques and statistical a
 
 1. Clone the repository:
     ```sh
-    git clone [<REPOSITORY_URL>](https://github.com/JsFn99/Philosophy-Analysis)
+    git clone [https://github.com/JsFn99/Philosophy-Analysis]
     cd Philosophy-Analysis
     ```
 
